@@ -1,4 +1,4 @@
-// These objects are used for input and outpur
+// These objects are used for input and output
 // process.stdin
 // process.stdout
 
